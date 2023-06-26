@@ -1,0 +1,15 @@
+.App {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    margin-left: 715px;
+    margin-top: 220px;
+    height: 550px;
+    width: 500px;
+    border-radius: 75px;
+    background-color: #bfb1b1;
+    box-shadow: 10px 12px 13px 12px darkgrey;
+}
+.SignInForm {
+    margin-left: 115px;
+}
